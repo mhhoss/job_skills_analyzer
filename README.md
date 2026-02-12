@@ -39,9 +39,7 @@ git clone https://github.com/mhhoss/job_skills_analyzer.git
 cd job_skills_analyzer
 
 python -m venv .venv
-.venv/bin/activate
-
-git clone https://github.com/mhhoss/job_skills_analyzer.git
+.venv\Scripts\activate
 
 pip install -r requirements.txt
 ```
